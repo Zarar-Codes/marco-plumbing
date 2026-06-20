@@ -95,7 +95,7 @@ export default function Home() {
                 </div>
                   <div className="space-y-4">
                   <div className="flex justify-center mb-2">
-                    <img src="/images/mark-fermo.webp" alt="Marco Plumbing" className="h-10 object-contain brightness-0 invert opacity-80" />
+                    <img src="/images/marco-logo.webp" alt="Marco Plumbing" className="h-10 object-contain" />
                   </div>
                   <div className="flex items-center gap-2">
                     <div className="w-2 h-2 rounded-full bg-green-500 shadow-[0_0_8px_rgba(46,213,115,0.6)] animate-pulse" />

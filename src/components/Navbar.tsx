@@ -51,7 +51,7 @@ export function Navbar() {
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex items-center justify-between h-16">
             <Link to="/" className="flex items-center gap-2">
-              <img src="/images/mark-fermo.webp" alt="Marco Plumbing" className="h-8 w-auto" />
+              <img src="/images/marco-logo.webp" alt="Marco Plumbing" className="h-8 w-auto" />
               <span className="font-sans text-xl font-extrabold uppercase tracking-tight text-text-primary drop-shadow-[0_1px_0_#ffffff]">
                 Marco<span className="text-accent">.</span>Plumbing
               </span>
